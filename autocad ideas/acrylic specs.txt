@@ -1,0 +1,2 @@
+each layer should be about 3.5mm 
+5 layers total about 17.5mm (try to get higher)
