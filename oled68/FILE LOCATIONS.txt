@@ -1,0 +1,2 @@
+Be sure to have QMK installed
+Usually in C: > Users > "Your user" > qmk_firmware > keybaords > oled68
